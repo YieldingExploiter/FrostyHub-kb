@@ -1,4 +1,5 @@
 # Introduction
-Welcome to YieldingCoder's MDBooks Replit Template.
+Welcome to the Frosty Hub Knowledge Base.
 
-[MDBooks Documentation](https://rust-lang.github.io/mdBook/) | [Replit](https://replit.com/@YieldingCoder/MDBooks?v=1)
+## What is Frosty Hub?
+Frosty Hub is a paid Roblox `Script Hub`.
